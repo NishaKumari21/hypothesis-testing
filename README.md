@@ -1,5 +1,7 @@
 # hypothesis-testing
 📌 Z-Test, T-Test, aur Chi-Square Test
+
+
 1️⃣ Z-Test (One-Sample Z-Test)
 Definition:
 Z-Test ek statistical test hai jo sample mean aur population mean ka comparison karta hai jab population standard deviation known ho aur sample size 30 se zyada ho.
@@ -25,6 +27,8 @@ Jab data normal distribution follow kare ya approximately normal ho.
 
 Example:
 Ek company ke employees ka average productivity score 75 hai. Agar 10 employees ka productivity score sample liya jisme average 78 aaya, to T-test se check karenge ki yeh difference significant hai ya nahi.
+
+
 
 3️⃣ Chi-Square Test (Chi-Square Test for Independence)
 Definition:
